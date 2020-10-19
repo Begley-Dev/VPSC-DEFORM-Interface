@@ -1,0 +1,44 @@
+# FORTRAN
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Avoid VPSC Source Code
+library7.sub
+vpsc7.for
+vpsc7.dim
+vpsc7.sub
+Cubcomp.in
+
+# MATLAB
+*.asv
